@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<methodCall>
+<methodName>system.multiCall</methodName>
+<params>
+ <param>
+  <value>
+   <array>
+    <data>
+     <value>
+      <struct>
+       <member>
+        <name>methodName</name>
+        <value>
+         <string>contact.select</string>
+        </value>
+       </member>
+       <member>
+        <name>params</name>
+        <value>
+         <array>
+          <data>
+           <value>
+            <struct>
+             <member>
+              <name>SESSIONID</name>
+              <value>
+               <string>1234567890</string>
+              </value>
+             </member>
+            </struct>
+           </value>
+          </data>
+         </array>
+        </value>
+       </member>
+      </struct>
+     </value>
+    </data>
+   </array>
+  </value>
+ </param>
+</params>
+</methodCall>

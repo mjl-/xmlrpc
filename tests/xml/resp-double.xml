@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<methodResponse>
+   <params>
+      <param>
+         <value><double>1.234567</double></value>
+      </param>
+   </params>
+</methodResponse>

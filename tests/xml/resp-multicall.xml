@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<methodResponse>
+<params>
+ <param>
+  <value>
+   <array>
+    <data>
+     <value>
+      <array>
+       <data>
+        <value>
+         <struct>
+          <member>
+           <name>AUTH</name>
+           <value>
+            <int>1</int>
+           </value>
+          </member>
+          <member>
+            <name>SESSIONID</name>
+            <value>
+            <string>1234567890</string>
+           </value>
+          </member>
+         </struct>
+        </value>
+       </data>
+      </array>
+     </value>
+    </data>
+   </array>
+  </value>
+ </param>
+</params>
+</methodResponse>

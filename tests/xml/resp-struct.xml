@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<methodResponse>
+   <params>
+      <param>
+         <value>
+		<struct>
+			<member>
+				<name>int</name>
+				<value><int>1</int></value>
+			</member>
+			<member>
+				<name>string</name>
+				<value>implicit string</value>
+			</member>
+			<member>
+				<name>string2</name>
+				<value></value>
+			</member>
+			<member>
+				<name>double</name>
+				<value>1.23</value>
+			</member>
+		</struct>
+	</value>
+      </param>
+   </params>
+</methodResponse>
